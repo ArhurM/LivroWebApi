@@ -14,7 +14,7 @@ Introdução ao Visual Studio: [Documentação VS](https://docs.microsoft.com/pt
 <tr><td><b>Encontro Remoto 1:</b>	17/12	✔️</tr></td>
 <tr><td><b>Encontro Remoto 2:</b>	14/01	✔️</tr></td>
 <tr><td><b>Encontro Remoto 3:</b>	21/01	✔️</tr></td>
-<tr><td><b>Encontro Remoto 4:</b>	28/01	  </tr></td></table>
+<tr><td><b>Encontro Remoto 4:</b>	28/01	✔️</tr></td></table>
 
 
 ### 🔴 Requisitos:

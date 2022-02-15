@@ -21,7 +21,6 @@ C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.web
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -68,6 +67,7 @@ C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.web
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\ref\chapter.webapi.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\chapter.webapi.pdb
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\chapter.webapi.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
