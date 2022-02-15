@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Models",
+      "appliesTo": "chapter.webapi/Models/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Models",
+      "appliesTo": "chapter.webapi/Models/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Livro",
+      "appliesTo": "chapter.webapi/Models/Livro.cs",
+      "type": "launch"
+    }
+  ]
+}

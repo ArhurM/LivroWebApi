@@ -26,5 +26,10 @@ namespace chapter.webapi.Contexts
         }
         public DbSet<Livro> Livros { get; set; }
 
+        public DbSet<Usuario> Usuarios { get; set; }
+
+
     }
+
+   
 }

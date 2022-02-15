@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chapter.webapi",
+    "\\chapter.webapi\\bin",
+    "\\chapter.webapi\\bin\\Debug",
+    "\\chapter.webapi\\bin\\Debug\\net5.0",
+    "\\chapter.webapi\\Contexts",
+    "\\chapter.webapi\\Controllers",
+    "\\chapter.webapi\\Repositories"
+  ],
+  "SelectedNode": "\\chapter.webapi\\chapter.webapi.csproj",
+  "PreviewInSolutionExplorer": false
+}

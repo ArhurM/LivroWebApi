@@ -68,3 +68,8 @@ C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.web
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\ref\chapter.webapi.dll
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\chapter.webapi.pdb
 C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\chapter.webapi.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\chapter.webapi\chapter.webapi\chapter.webapi\obj\Debug\net5.0\chapter.webapi.MvcApplicationPartsAssemblyInfo.cs

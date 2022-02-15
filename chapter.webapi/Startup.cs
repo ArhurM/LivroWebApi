@@ -27,9 +27,33 @@ namespace chapter.webapi
         {
             services.AddControllers();
 
-            services.AddScoped<ChapterContext>();
+
+            services.AddCors(options => 
+            { 
+                 
+                 options.AddPolicy("PolicyCors",
+                     builder =>
+                     {
+                         builder.WithOrigins("http://localhost:3000")
+                         .AllowAnyHeader()
+                         .AllowAnyMethod();
+                     });
+            
+            });
+
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Version = "v1", Title = "Chapter.WebApi" });
+            });
+            
+
+            services.AddScoped<ChapterContext, ChapterContext>();
 
             services.AddTransient<LivroRepository, LivroRepository>();
+
+            services.AddTransient<UsuarioRepository, UsuarioRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,10 +70,24 @@ namespace chapter.webapi
                 app.UseHsts();
             }
 
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c => 
+            {
+
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Chapter.WebApi");
+                c.RoutePrefix = String.Empty;
+            });
+
+
             app.UseHttpsRedirection();
+
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseCors("PolicyCors");
 
             app.UseAuthorization();
 
